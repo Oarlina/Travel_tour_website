@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>about</title>
+    <title>home</title>
     
     <!-- lien swipper css  -->
     <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/> -->
@@ -27,10 +27,6 @@
         </nav>
         <div id="menu-btn" class="fas fa-bars"></div> <!-- ceci est le boputon du menu -->
     </section>
-
-    <div class="heading" style="background:url(images/header-bg-1.jpg) no-repeat">
-        <h1>about us</h1>
-    </div>
 
     <section class="footer"> <!-- c'est la section ou il y a les liens du site-->
         <div class="box-container">
@@ -73,7 +69,7 @@
 
     </section>
         
-    
+
 
 
 
