@@ -32,6 +32,64 @@
         <h1>book</h1>
     </div>
 
+    <section class="booking">
+        <h1 class="heading-title">book your trip!</h1>
+        <form action="book_form.php" method="post" class="book-form">
+            <div class="flex">
+                <div class="inputBox">
+                    <span>name:</span>
+                    <input type="text" placeholder="entrer your name" name="name">
+                </div>
+
+                <div class="inputBox">
+                    <span>email:</span>
+                    <input type="email" placeholder="entrer your email" name="email">
+                </div>
+
+                <div class="inputBox">
+                    <span>phone:</span>
+                    <input type="number" placeholder="entrer your number" name="phone">
+                </div>
+
+                <div class="inputBox">
+                    <span>address:</span>
+                    <input type="text" placeholder="entrer your address" name="address">
+                </div>
+
+                <div class="inputBox">
+                    <span>where to:</span>
+                    <input type="number" placeholder="place you want to visit" name="location">
+                </div>
+                
+                <div class="inputBox">
+                    <span>how many:</span>
+                    <input type="number" placeholder="number of guests" name="guests">
+                </div>
+
+                <div class="inputBox">
+                    <span>arrivals:</span>
+                    <input type="date" name="arrivals">
+                </div>
+
+                <div class="inputBox">
+                    <span>leaving:</span>
+                    <input type="date" name="leaving">
+                </div>
+                <input type="submit" value="submit" class="btn" name="send">
+            </div>
+        </form>
+    </section>
+
+
+
+
+
+
+
+
+
+
+
     <section class="footer"> <!-- c'est la section ou il y a les liens du site-->
         <div class="box-container">
             <div class="box">
