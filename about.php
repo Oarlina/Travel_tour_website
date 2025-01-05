@@ -32,6 +32,19 @@
         <h1>about us</h1>
     </div>
 
+
+
+
+
+
+
+
+
+
+
+
+
+    
     <section class="footer"> <!-- c'est la section ou il y a les liens du site-->
         <div class="box-container">
             <div class="box">
