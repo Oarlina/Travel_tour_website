@@ -14,7 +14,7 @@
     <!-- lien ppage css-->
     <link rel="stylesheet" href="css/styles.css" />
  
-
+</head>
 <body>
         
     <section class="header"> <!-- c'est la section ou il y a les liens des pages-->
@@ -174,15 +174,6 @@
         </div>
     </section>
 
-
-
-
-
-
-
-
-
-
     <section class="footer"> <!-- c'est la section ou il y a les liens du site-->
         <div class="box-container">
             <div class="box">
@@ -223,11 +214,6 @@
         </div>
 
     </section>
-        
-
-
-
-
 
     <!-- lien swipper js  -->
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>

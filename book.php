@@ -80,16 +80,6 @@
         </form>
     </section>
 
-
-
-
-
-
-
-
-
-
-
     <section class="footer"> <!-- c'est la section ou il y a les liens du site-->
         <div class="box-container">
             <div class="box">
@@ -130,11 +120,6 @@
         </div>
 
     </section>
-        
-
-
-
-
 
     <!-- lien swipper js  -->
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>

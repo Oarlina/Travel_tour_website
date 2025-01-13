@@ -27,18 +27,6 @@
         </nav>
         <div id="menu-btn" class="fas fa-bars"></div> <!-- ceci est le boputon du menu -->
     </section>
-
-
-
-
-
-
-
-
-
-
-
-
     
     <section class="footer"> <!-- c'est la section ou il y a les liens du site-->
         <div class="box-container">
@@ -81,7 +69,6 @@
 
     </section>
         
-
     <!-- lien swipper js  -->
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <script src="index.js"></script>
