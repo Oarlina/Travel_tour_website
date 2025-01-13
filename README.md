@@ -4,6 +4,8 @@
 Cet exercice a été réalisé via une vidéo YouTube.
 L'objectif était de créer un site entierement responsive de voyage  et de le designer en html, css, js et php. 
 
+**Lien** : https://www.youtube.com/watch?v=34MBVXsDOtA 
+
 **Fonctionnalités**
 * Etre responsive pour téléphone et ordinateur.
 * Repondre a un formulaire pour la duree et le lieu de vancances.
